@@ -26,3 +26,9 @@ yolo11n.pt
 
 # Colab download; its contents are committed unzipped in weights/ and outputs/
 results.zip
+
+# Dashboard planning mockup, not part of the submission
+dashboard_mockup.html
+
+# Claude Code tooling (launch config for previewing the app)
+.claude/
