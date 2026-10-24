@@ -23,3 +23,6 @@ vision_api_inspection_roboflow*.ipynb
 
 # Pretrained checkpoint Ultralytics downloads on first use; only our finetuned weights/best.pt is committed
 yolo11n.pt
+
+# Colab download; its contents are committed unzipped in weights/ and outputs/
+results.zip
