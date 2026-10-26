@@ -32,3 +32,6 @@ dashboard_mockup.html
 
 # Claude Code tooling (launch config for previewing the app)
 .claude/
+
+# Private report-writing guide, not part of the submission
+REPORT_GUIDE.md
