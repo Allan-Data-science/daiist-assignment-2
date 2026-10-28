@@ -1,4 +1,4 @@
-# **Fall detection for care-home night alerts**
+# **Fall detection for care home night alerts**
 
 **Name:** Allan Stalker **Student ID:** 19004 **Email:** [astalker.ieu2022@student.ie.edu](mailto:astalker.ieu2022@student.ie.edu)
 
